@@ -161,3 +161,8 @@ run_tests.sh
 input/
 output/
 out/
+
+# Excel files
+*.xlsx
+*.csv
+*.xls
